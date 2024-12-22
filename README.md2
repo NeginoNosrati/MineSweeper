@@ -1,0 +1,13 @@
+# MineSweeper game 
+Asinmple console-based Minesweeper game built in jave.
+## features 
+- customize size
+- randomized mine placement
+- real time scoring system
+- color-coded console output
+## Project Structure
+- MineSweeper.java: Main class of the game
+- Game.java: Parent class providing shared
+## code written by 
+  Negin [https://github.com/NeginoNosrati]
+
